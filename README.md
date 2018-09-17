@@ -17,11 +17,3 @@ This project aims at predicting self-esteem based on Ecological Momentary Assess
 
 Link: https://github.com/VBremer/PredictSelfEsteem
 
-
-## Predicting individual mood levels based on diary data
-This project uses identified activities reported from depressive patients of an internet-based intervention. Based on this data, partial ordered logit models with varying levels of heterogeneity among clients are developed and utilized for the prediction of the patients' mood level.
-
-Link: https://github.com/VBremer/PredictMood
-
-
-
