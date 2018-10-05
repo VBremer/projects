@@ -17,3 +17,8 @@ This project aims at predicting self-esteem based on Ecological Momentary Assess
 
 Link: https://github.com/VBremer/PredictSelfEsteem
 
+## Machine Learning wrapper
+Wrapper for the execution of multiple machine learning models including k-fold cross validation. Adjusted example from machinelearningmastery.com.
+
+Link: https://github.com/VBremer/ML-Wrapper
+
